@@ -1,4 +1,4 @@
-# Flybird-FPGA-RISCV-
+# Flybird-FPGA-RISCV
 
 欢迎观看B站视频
 
